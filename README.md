@@ -9,7 +9,7 @@
 🔭 Currently working as Senior SDET Engineer at Sanas AI<br>⚙️ Building automation using Selenium with Python (Pytest framework)<br>🌱 Learning Playwright, API Automation & CI/CD<br>👨‍💻 6+ years in Web, Mobile & AI-based application testing<br>🤝 Strong experience in Agile & mentoring QA engineers<br>📫 Reach me at rajatsharma361994@gmail.com<br>💬 Mobile: +91-7008273173
 
 <p align="center">
-  <a href="https://github.com/rajatsharma-361994/YOUR_REPO/blob/main/Rajat_Sharma_Resume.pdf" download>
+  <a href="https://github.com/rajatsharma-361994/YOUR_REPO/blob/main/QA Engineer_Rajat_ Resume.docx.pdf" download>
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
