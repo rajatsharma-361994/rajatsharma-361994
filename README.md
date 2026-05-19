@@ -90,6 +90,8 @@
 </p>
 
 ---
-
 ## ⚡ Fun Fact
-I break applications in testing so users never face issues in production 😄
+
+<p align="center">
+  <img src="https://img.shields.io/badge/I%20break%20applications%20in%20testing%20so%20users%20never%20face%20issues%20in%20production-😄-blue?style=for-the-badge" />
+</p>
