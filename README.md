@@ -75,6 +75,18 @@
 
 ---
 
+## 🧪 Testing Philosophy
+
+> “Quality is not just testing features — it’s preventing failures before users experience them.”
+
+## ⚙️ Tools I Use Daily
+
+- 🧪 Test Execution: Selenium, Pytest, Playwright  
+- 🔗 API Testing: Postman, Swagger  
+- 📊 Debugging: Charles Proxy, Fiddler  
+- 🐞 Tracking: JIRA, TestRail  
+- 🔄 CI/CD: GitLab CI  
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -95,3 +107,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/I%20break%20applications%20in%20testing%20so%20users%20never%20face%20issues%20in%20production-😄-blue?style=for-the-badge" />
 </p>
+
+
