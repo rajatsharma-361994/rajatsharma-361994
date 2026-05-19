@@ -2,7 +2,7 @@
 <h3 align="center">Senior SDET Engineer @ Sanas | Testing AI-based Applications</h3>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=deekshith-poojary98&label=Profile%20views&color=0e75b6&style=flat" alt="deekshith-poojary98" />
+  <img src="https://komarev.com/ghpvc/?username=rajatsharma-361994&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsharma-361994" />
 </p>
 
 # 💫 About Me:
