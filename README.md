@@ -1,11 +1,16 @@
+<h1 align="center">Hi :wave:, I'm Rajat Sharma</h1>
+<h3 align="center">Senior SDET Engineer @ Sanas | Testing AI-based Applications</h3>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=deekshith-poojary98&label=Profile%20views&color=0e75b6&style=flat" alt="deekshith-poojary98" />
+</p>
+
 # 💫 About Me:
 🔭 Currently working as Senior SDET Engineer at Sanas AI<br>⚙️ Building automation using Selenium with Python (Pytest framework)<br>🌱 Learning Playwright, API Automation & CI/CD<br>👨‍💻 6+ years in Web, Mobile & AI-based application testing<br>🤝 Strong experience in Agile & mentoring QA engineers<br>📫 Reach me at rajatsharma361994@gmail.com<br>💬 Mobile: +91-7008273173
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajat-sharma-938681a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatsharmahyd7@gmail.com) 
-
-[![](https://komarev.com/ghpvc/?username=rajatsharma-361994&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 
