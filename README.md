@@ -45,11 +45,16 @@ QA Engineer / SDET with 6+ years of experience in **manual testing, automation, 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rajat-sharma-938681a3/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/rajat-sharma-938681a3/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
 <a href="mailto:rajatsharma361994@gmail.com">
-<img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://rajatsharma-361994.github.io/rajatsharma-361994/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=google-chrome" />
 </a>
 </p>
 
