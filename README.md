@@ -2,7 +2,7 @@
 <h3 align="center">Senior SDET Engineer @ Sanas | Testing AI-based Applications</h3>
 
 <p align="center">
-  <a href="https://github.com/rajatsharma-361994/rajatsharma-361994/blob/main/MY_Profile/Rajat_Sharma_Resume.pdf">
+  <a href="https://github.com/rajatsharma-361994/rajatsharma-361994/blob/main/MY_Profile/QA_Engineer_SDET_Engineer_Rajat_CV.pdf">
     <img src="https://img.shields.io/badge/📄 Download%20CV-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
